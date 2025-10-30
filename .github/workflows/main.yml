@@ -25,3 +25,7 @@ jobs:
       - name: Ejecutar pruebas
         run: |
           pytest -v 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1ccaf6da78e5513d93512b2123a6662891d074cb
