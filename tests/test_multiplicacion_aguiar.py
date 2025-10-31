@@ -1,4 +1,4 @@
-from funciones.aguiar import multiplicar_aguiar
+from funciones.multiplicacion_aguiar import multiplicar_aguiar
 
 def test_multiplicar_aguiar():
     assert multiplicar_aguiar(3, 4) == 12
